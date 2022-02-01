@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
           brightness: Brightness.light,
         ),
         darkTheme: ThemeData.dark(),
-        title: 'MyPasar',
+        title: 'Bouquet Delivery',
         home: const Scaffold(
           body: Productlist(),
         ));
